@@ -1,0 +1,74 @@
+
+
+0. extract student properties from sample data: (done)
+	student-id, st-name, sex, ethnicity, age
+	Student-id is unique and correspondense to the AAU student number 
+
+
+1. Group-id , group-members (Group id able to represent the list of group members with their student ids) (done)
+
+2. n population 200 input/read (done)
+
+3. Write a function that retrieves a given group from grouping(done)
+
+4. write a function that returns a number of groups from grouping-association(done)
+
+5. write a function that returns the maximum group size in grouping-asscociation(done)
+
+6. write a function that returns the minimum group size in the grouping-association(done)
+
+7. write the selector function which returns the group-id (done)
+
+8. Construct a function for a sngle group and write group predicate function.(done)
+
+9. Write a selector function that returns a list of students in the group.(done)
+
+10. write a selector function that returns the group-id(done)
+
+11. Write constructor, predicate, selection functions for a single student (representing a student your own style) (done)
+
+
+Random grouping:
+
+12. Create a grouping from list of groups.(done)
+
+13. write a function to create random groups of students.(done) 
+
+14. write a recursive function to create all groups.(done)
+ 
+15. Write the function for the sum of group-sizes equal to the number of students.(done) 
+
+16. write a function which asserts that gsl has the positive integers(done)
+
+
+Grouping by counting:
+
+17. Write a program for a grouping by counting that mimics the manual counting approach to the formation of k groups (done)
+
+
+Balanced grouping by counting:
+18. Write a function which the gender and ethnicity of students that distributes equally in constructed groups.(done)
+19. Make the pretty print function to show the details above mentioned details
+
+
+Ramdom grouping with group predicate:
+
+20. Create random grouping with a predicate which satisfy the below conditions.
+	1. At least N students in a group are A years of old(done)
+	2. All students in the group are female.(done)
+	3. No students in the group are of the same age.(done)
+
+21. write a predicate function that identifies a grouping object.(done)
+
+
+
+
+
+
+
+
+
+
+
+
+
